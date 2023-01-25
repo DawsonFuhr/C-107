@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4{
+    font-family: cursive;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+
+
+img{
+    width:500;
+    height:500;
+    border-color: blueviolet;
+    border-width: 8px;
+    border-style:solid ;
+}
+img:hover {
+    border-radius: 140px;
+}
+
+.column {
+width:500;
+height:400;
+}
